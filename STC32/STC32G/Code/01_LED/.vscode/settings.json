@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "stc32g.h": "c",
+        "STC32G.H": "cpp",
+        "main.h": "c",
+        "type_def.h": "c",
+        "stc32g_gpio_extend.h": "c",
+        "bsp_led.h": "c"
+    }
+}
